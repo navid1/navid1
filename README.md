@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm interested in Computer Science and focused on distributed systems.
 <!--
 **navid1/navid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
